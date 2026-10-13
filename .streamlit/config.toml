@@ -1,0 +1,13 @@
+[theme]
+base = "light"
+primaryColor = "#1baf7a"
+
+[global]
+# video frames are sent inline; caching each one server-side would grow memory during playback
+minCachedMessageSize = 1e9
+
+[server]
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false

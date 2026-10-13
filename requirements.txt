@@ -1,0 +1,6 @@
+numpy>=1.23
+opencv-python>=4.8
+scipy>=1.10
+torch>=2.1
+torchvision>=0.16
+streamlit>=1.36
